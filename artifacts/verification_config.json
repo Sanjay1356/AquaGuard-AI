@@ -1,0 +1,10 @@
+{
+  "xgboost_version": "3.2.0",
+  "num_trees": 300,
+  "max_depth": 6,
+  "base_probability": 0.114133835,
+  "base_margin": -2.049194097518921,
+  "classification_threshold": 0.12,
+  "input_dtype": "float32",
+  "max_margin_error": 2.57459e-06
+}

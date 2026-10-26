@@ -1,0 +1,7 @@
+{
+  "threshold": 0.12,
+  "positive_class": 1,
+  "positive_label": "Safe",
+  "negative_class": 0,
+  "negative_label": "Unsafe"
+}
